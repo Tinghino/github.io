@@ -1,0 +1,10 @@
+C:\UBSExercise\UBSExercise\bin\Debug\UBSExercise.exe.config
+C:\UBSExercise\UBSExercise\bin\Debug\UBSExercise.exe
+C:\UBSExercise\UBSExercise\bin\Debug\UBSExercise.pdb
+C:\UBSExercise\UBSExercise\obj\Debug\UBSExercise.csprojResolveAssemblyReference.cache
+C:\UBSExercise\UBSExercise\obj\Debug\UBSExercise.Form1.resources
+C:\UBSExercise\UBSExercise\obj\Debug\UBSExercise.Properties.Resources.resources
+C:\UBSExercise\UBSExercise\obj\Debug\UBSExercise.csproj.GenerateResource.Cache
+C:\UBSExercise\UBSExercise\obj\Debug\UBSExercise.csproj.CoreCompileInputs.cache
+C:\UBSExercise\UBSExercise\obj\Debug\UBSExercise.exe
+C:\UBSExercise\UBSExercise\obj\Debug\UBSExercise.pdb
